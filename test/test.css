@@ -168,7 +168,6 @@ body.dark .sidebar header .toggle{
     border-radius: 5px;
     background-color: var(--primary-color-light);
     cursor: pointer;
-    transition: var(--tran-05);
 }
 
 .sidebar li.search-box input{
@@ -181,7 +180,6 @@ body.dark .sidebar header .toggle{
     border-radius: 6px;
     font-size: 17px;
     font-weight: 500;
-    transition: var(--tran-05);
 }
 .sidebar li a{
     list-style: none;
